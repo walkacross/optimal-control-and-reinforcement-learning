@@ -2,7 +2,8 @@
 
 
 # 1.book
-## 1.1 [Reinforcement learning and optimal contrl](https://web.mit.edu/dimitrib/www/RLbook.html)
+## 1.1 [Reinforcement learning and optimal control](https://web.mit.edu/dimitrib/www/RLbook.html)
+> Dimitri P. Bertsekas
 
 > The purpose of the book is to consider large and challenging multistage decision problems, which can be solved in principle by dynamic programming and optimal control, but their exact solution is computationally intractable. We discuss solution methods that rely on approximations to produce suboptimal policies with adequate performance. These methods are collectively referred to as reinforcement learning, and also by alternative names such as approximate dynamic programming, and neuro-dynamic programming.
 
