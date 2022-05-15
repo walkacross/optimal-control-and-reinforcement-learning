@@ -2,6 +2,16 @@
 
 
 # 1.book
+## 1.1 [Reinforcement learning and optimal contrl](https://web.mit.edu/dimitrib/www/RLbook.html)
+
+> The purpose of the book is to consider large and challenging multistage decision problems, which can be solved in principle by dynamic programming and optimal control, but their exact solution is computationally intractable. We discuss solution methods that rely on approximations to produce suboptimal policies with adequate performance. These methods are collectively referred to as reinforcement learning, and also by alternative names such as approximate dynamic programming, and neuro-dynamic programming.
+
+> Our subject has benefited enormously from the interplay of ideas from optimal control and from artificial intelligence. One of the aims of this monograph is to explore the common boundary between these two fields and to form a bridge that is accessible by workers with background in either field.
+
+> The mathematical style of the book is somewhat different from the author's dynamic programming books, and the neuro-dynamic programming monograph, written jointly with John Tsitsiklis. We rely more on intuitive explanations and less on proof-based insights. Still we provide a rigorous short account of the theory of finite and infinite horizon dynamic programming, and some basic approximation methods, in an appendix. For this we require a modest mathematical background: calculus, elementary probability, and a minimal use of matrix-vector algebra.
+
+> The methods of this book have been successful in practice, and often spectacularly so, as evidenced by recent amazing accomplishments in the games of chess and Go. However, across a wide range of problems, their performance properties may be less than solid. This is a reflection of the state of the art in the field: there are no methods that are guaranteed to work for all or even most problems, but there are enough methods to try on a given challenging problem with a reasonable chance that one or more of them will be successful in the end. Accordingly, we have aimed to present a broad range of methods that are based on sound principles, and to provide intuition into their properties, even when these properties do not include a solid performance guarantee. Hopefully, with enough exploration with some of these methods and their variations, the reader will be able to address adequately his/her own problem.
+
 # 2.courses
 
 ## 2.1 [AA 203: Optimal and Learning-Based Control](https://stanfordasl.github.io/aa203/)
