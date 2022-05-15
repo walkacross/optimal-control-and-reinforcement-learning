@@ -13,6 +13,9 @@
 ## 2.2 [Reinforcement learning and optimal control for robotics (ROB-GY 6323)](http://bulletin.engineering.nyu.edu/preview_course_nopop.php?catoid=15&coid=38033)
 > What kind of movements should a robot perform in order to walk, jump or manipulate objects? Can it compute optimal behaviors online? Can it learn this directly from trial and error? This course will introduce modern methods for robotics movement generation based on numerical optimal control and reinforcement learning. It will cover fundamental topics in numerical optimal control (Bellman equations, differential dynamic programming, model predictive control) and reinforcement learning (actor-critic algorithms, model-based reinforcement learning, deep reinforcement learning) applied to robotics. It will also contain hands-on exercises for real robotic applications such as walking and jumping, object manipulation or acrobatic drones. Recommended background in at least one of the following: linear systems; robotics; machine learning; convex optimization; programming (python).
 
+## 2.3 [Model Predictive Control and Reinforcement Learning](https://www.syscop.de/teaching/ss2021/model-predictive-control-and-reinforcement-learning)
+
+> This block course of 8 days duration is intended for master and PhD students from engineering, computer science, mathematics, physics, and other mathematical sciences. The aim is that participants understand the main concepts of model predictive control (MPC) and reinforcement learning (RL) as well the similarities and differences between the two approaches. In hands-on exercises and project work they learn to apply the methods to practical optimal control problems from science and engineering. 
 
 # 3.researcher
 
