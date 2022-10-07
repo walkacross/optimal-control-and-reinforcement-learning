@@ -38,15 +38,18 @@
 
 # 4.organization
 
-## 4.1 [Stanford Autonomous Systems Lab](https://stanfordasl.github.io/)
+## 4.1 [Robotic Artificial Intelligence and Learning Lab](http://rail.eecs.berkeley.edu/)(RAIL)
+> Welcome to the RAIL lab website! Our research focus is to enable machines to exhibit flexible and adaptable behavior, acquired autonomously through learning. To that end, we work on learning algorithms, robotics, and computer vision.
+
+## 4.2 [Stanford Autonomous Systems Lab](https://stanfordasl.github.io/)
 
 > The Autonomous Systems Lab (ASL) develops methodologies for the analysis, design, and control of autonomous systems, with a particular emphasis on large-scale robotic networks and autonomous aerospace vehicles. The lab, comprised of 18 researchers, combines expertise from control theory, robotics, optimization, and operations research to develop the theoretical foundations for networked autonomous systems operating in uncertain, rapidly-changing, and potentially adversarial environments. Our work has been recognized with several awards, including a Presidential Early Career Award for Scientists and Engineers.
 
 https://github.com/StanfordASL
 
-## 4.2 [System control and optimization laboratory](https://www.syscop.de/teaching)
+## 4.3 [System control and optimization laboratory](https://www.syscop.de/teaching)
 
 > The research focus of the laboratory is on optimization and control with a current application focus on robotic, mechatronic and renewable energy systems. The core area of expertise are embedded optimization algorithms, i.e. methods for real-time optimization on embedded platforms, with a focus on nonlinear systems. The work of the group spans from dynamic system modelling and optimal control problem formulations to open-source software development and real-world control implementations. The group’s interdisciplinary work is located between numerical mathematics, computer science, and control engineering.
 
-## 4.3 [The Robotic Exploration Lab @ Carnegie Mellon University](http://roboticexplorationlab.org/)
+## 4.4 [The Robotic Exploration Lab @ Carnegie Mellon University](http://roboticexplorationlab.org/)
 The Robotic Exploration Lab in The Robotics Institute at Carnegie Mellon University conducts research in control, motion planning, and navigation for robotic systems that explore our planet and our universe.
