@@ -24,11 +24,17 @@
 ## 2.2 [Reinforcement learning and optimal control for robotics (ROB-GY 6323)](http://bulletin.engineering.nyu.edu/preview_course_nopop.php?catoid=15&coid=38033)
 > What kind of movements should a robot perform in order to walk, jump or manipulate objects? Can it compute optimal behaviors online? Can it learn this directly from trial and error? This course will introduce modern methods for robotics movement generation based on numerical optimal control and reinforcement learning. It will cover fundamental topics in numerical optimal control (Bellman equations, differential dynamic programming, model predictive control) and reinforcement learning (actor-critic algorithms, model-based reinforcement learning, deep reinforcement learning) applied to robotics. It will also contain hands-on exercises for real robotic applications such as walking and jumping, object manipulation or acrobatic drones. Recommended background in at least one of the following: linear systems; robotics; machine learning; convex optimization; programming (python).
 
-## 2.3 [Model Predictive Control and Reinforcement Learning](https://www.syscop.de/teaching/ss2021/model-predictive-control-and-reinforcement-learning)
+## 2.3 [Optimal Control and Reinforcement Learning @CMU](https://www.cs.cmu.edu/~cga/dynopt/description.html)
+> This course surveys the use of optimization to design behavior. We will explore ways to represent policies including hand-designed parametric functions, basis functions, tables, and trajectory libraries. We will also explore algorithms to create policies including parameter optimization and trajectory optimization (first and second order gradient methods, sequential quadratic programming, random search methods, evolutionary algorithms, etc.). We will discuss how to handle the discrepancy between models used to create policies and the actual system being controlled (evaluation and robustness issues). The course will combine lectures, student-presented material, and projects. The goal of this course will be to help participants find the most effective methods for their problems.
+
+## 2.4 [Model Predictive Control and Reinforcement Learning](https://www.syscop.de/teaching/ss2021/model-predictive-control-and-reinforcement-learning)
 
 > This block course of 8 days duration is intended for master and PhD students from engineering, computer science, mathematics, physics, and other mathematical sciences. The aim is that participants understand the main concepts of model predictive control (MPC) and reinforcement learning (RL) as well the similarities and differences between the two approaches. In hands-on exercises and project work they learn to apply the methods to practical optimal control problems from science and engineering. 
 
 # 3.researcher
+[Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) @ UC Berkeley
+
+[Zac Manchester](https://www.linkedin.cn/incareer/in/zacmanchester) @ CMU 
 
 # 4.organization
 
@@ -41,3 +47,6 @@ https://github.com/StanfordASL
 ## 4.2 [System control and optimization laboratory](https://www.syscop.de/teaching)
 
 > The research focus of the laboratory is on optimization and control with a current application focus on robotic, mechatronic and renewable energy systems. The core area of expertise are embedded optimization algorithms, i.e. methods for real-time optimization on embedded platforms, with a focus on nonlinear systems. The work of the group spans from dynamic system modelling and optimal control problem formulations to open-source software development and real-world control implementations. The group’s interdisciplinary work is located between numerical mathematics, computer science, and control engineering.
+
+## 4.3 [The Robotic Exploration Lab @ Carnegie Mellon University](http://roboticexplorationlab.org/)
+The Robotic Exploration Lab in The Robotics Institute at Carnegie Mellon University conducts research in control, motion planning, and navigation for robotic systems that explore our planet and our universe.
